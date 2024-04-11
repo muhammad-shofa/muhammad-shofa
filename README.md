@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP & Database MySql**
 
-- 👨‍💻 All of my projects are available at [https://mshofadev.vercel.app/](https://mshofadev.vercel.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://mshofadev.my.id/)
 
 - 📫 How to reach me **mshofadevtheme@gmail.com**
 
