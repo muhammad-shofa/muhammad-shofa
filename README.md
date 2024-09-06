@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **PHP & Database MySql**
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://mshofadev.my.id/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://mshofadev.vercel.app/)
 
 - 📫 How to reach me **mshofadevtheme@gmail.com**
 
-- ⚡ Fun fact **I enjoy my coding time like I'm solving a game puzzle, and when I manage to solve the problem in my code, I feel happy and a sense of calmness in my heart.**
+- ⚡ Fun fact **I enjoy my coding time like I'm solving a puzzle game, when I manage to solve the problem in my code, I feel happy and a sense of calmness in my heart.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
