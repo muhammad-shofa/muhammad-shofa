@@ -16,7 +16,7 @@
 <a href="https://instagram.com/mshofadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mshofadev" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://tiktok.com/@mshofadev" target="blank"><img align="center" src="https://www.pngwing.com/id/free-png-vllqm" alt="mshofadev" height="30" width="40" /></a>
+<a href="https://tiktok.com/@mshofadev" target="blank"><img align="center" src="https://seeklogo.com/images/T/tiktok-logo-B9AC5FE794-seeklogo.com.png" alt="mshofadev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
