@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently studying at [SMK Taruna Jaya Prawira](https://smktjp.sch.id/)
 
-- 🌱 I’m currently learning **PHP & Database MySql**
+- 🌱 I’m currently learning **React JS & Node Js**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://mshofadev.vercel.app/)
 
