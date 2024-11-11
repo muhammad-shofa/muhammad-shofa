@@ -20,11 +20,9 @@
 <a href="https://tiktok.com/@mshofadev" target="blank"><img align="center" src="tiktok-app-icon-seeklogo.svg" alt="mshofadev" height="30" width="40" /></a>
 </p> -->
 
-<div align="center">
   <a href="https://github-readme-tech-stack.vercel.app">
     <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=GitHub+Readme+Tech+Stack&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=3&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=html%2Chtml%2Cauto%3Bcss%2Ccss%2Cauto%3Bjavascript%2Cjavascript%2Cauto%3B&line2=bootstrap%2Cbootstrap%2Cauto%3Btailwindcss%2Ctailwind%2Cauto%3Bphp%2Cphp%2Cauto%3B&line3=react%2Creact%2Cauto%3Bnode.js%2Cnode.js%2Cauto%3Bexpress.js%2Cexpress.js%2Cauto%3Bmongodb%2Cmongodb%2Cauto%3Bmysql%2Cmysql%2Cauto%3B" alt="GitHub Readme Tech Stack" />
   </a>
-</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
