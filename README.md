@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently studying at [SMK Taruna Jaya Prawira](https://smktjp.sch.id/)
 
-- 🌱 I’m currently learning **React JS & Node Js**
+- 🌱 I’m currently learning **CodeIgniter 4**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://mshofadev.vercel.app/)
 
