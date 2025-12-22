@@ -1,9 +1,9 @@
 <h1>Hello World 👋, I'm Muhammad Shofa</h1>
-<h3>A Frontend Web Developer From Tuban, Indonesia</h3>
+<h3>A Fullstack Web Developer From Tuban, Indonesia</h3>
 
 - 🔭 I'm currently studying at [SMK Taruna Jaya Prawira](https://smktjp.sch.id/)
 
-- 🌱 I’m currently learning **CodeIgniter 4**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://mshofadev.vercel.app/)
 
