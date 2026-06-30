@@ -1,27 +1,10 @@
-<h1>Hello World 👋, I'm Muhammad Shofa</h1>
-<h3>A Fullstack Web Developer From Tuban, Indonesia</h3>
+# Muhammad Shofa
+## Fullstack Developer | AI Enthusiast
+I am a passionate **Fullstack Web Developer** with a strong foundation in building dynamic, scalable web applications. While I love crafting seamless user experiences and robust backends, my true fascination lies in the world of data and intelligence. 
 
-- 🔭 I'm currently studying at [SMK Taruna Jaya Prawira](https://smktjp.sch.id/)
+Currently, I am expanding my horizons by diving deep into **Python**, **Machine Learning**, and **Deep Learning**. My ultimate goal is to bridge the gap between web development and artificial intelligence. I am constantly experimenting, learning, and building to make **innovative, data-driven solutions and bring smarter experiences to the digital world.**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [my portfolio](https://mshofadev.vercel.app/)
-
-- 📫 How to reach me **mshofadev@gmail.com**
-
-- ⚡ Fun fact **I enjoy my coding time like I'm solving a puzzle game, when I manage to solve the problem in my code, I feel happy and a sense of calmness in my heart.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left" display="flex">
-<a href="https://instagram.com/mshofadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mshofadev" height="30" width="40" /></a>
-  <a href="https://tiktok.com/@mshofadev" target="blank"><img align="center" src="tiktok-app-icon-seeklogo.svg" alt="mshofadev" height="30" width="40" /></a>
-</p
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=GitHub+Readme+Tech+Stack&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=3&theme=ayu&width=450&bg=%25230B0E14&titleColor=%231c9eff&line1=html%2Chtml%2Cauto%3Bcss%2Ccss%2Cauto%3Bjavascript%2Cjavascript%2Cauto%3B&line2=bootstrap%2Cbootstrap%2Cauto%3Btailwindcss%2Ctailwind%2Cauto%3Bphp%2Cphp%2Cauto%3B&line3=react%2Creact%2Cauto%3Bnode.js%2Cnode.js%2Cauto%3Bexpress.js%2Cexpress.js%2Cauto%3Bmongodb%2Cmongodb%2Cauto%3Bmysql%2Cmysql%2Cauto%3B" alt="GitHub Readme Tech Stack" />
-
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Tech Stack</h3>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
